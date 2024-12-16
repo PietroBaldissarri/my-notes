@@ -13,5 +13,5 @@ Ogni processo è costituito da due parti:
 [[PCB]]
 [[Istanze di un programma]]
 
-[[Argomenti]]
+[[Argomenti TPI]]
 

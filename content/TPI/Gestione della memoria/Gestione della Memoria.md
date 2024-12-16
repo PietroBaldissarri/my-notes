@@ -5,4 +5,4 @@ Per gestire la memoria centrale di un sistema operativo sono necessarie varie te
 [[Partizionamento]]
 [[Memoria Virtuale]]
 
-[[Argomenti]]
+[[Argomenti TPI]]
